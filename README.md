@@ -66,7 +66,7 @@ input count, verified):
 | Component | Detail |
 |---|---|
 | Target FPGA | Renesas Forge FPGA SLG47910 (Rev BB), 1120 LUTs |
-| Dev board | Vicharak Shrike Lite (dual-core RP2040 MCU + FPGA) — [board docs](https://docs.zephyrproject.org) |
+| Dev board | Vicharak Shrike Lite (dual-core RP2040 MCU + FPGA) — [board docs](https://docs.zephyrproject.org/latest/boards/vicharak/shrike_lite/doc/index.html) |
 | Toolchain | Renesas GoConfig Software Hub (bitstream generation) | 
 | Scripting | Python, Micropython, bash|
 
