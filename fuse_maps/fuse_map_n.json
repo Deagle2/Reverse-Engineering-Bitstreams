@@ -1,0 +1,355 @@
+{
+  "n_inputs": 3,
+  "gates_used": [
+    "AND3",
+    "OR3",
+    "XOR3",
+    "MAJ3",
+    "ASYM1",
+    "ASYM2",
+    "ASYM3",
+    "ASYM4",
+    "NAND3",
+    "NOR3",
+    "XNOR3",
+    "ASYM5"
+  ],
+  "fuse_map": {
+    "000": [
+      {
+        "offset": 6425,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6429,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6461,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6465,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6777,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6781,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6813,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6817,
+        "bit": 3,
+        "polarity": "normal"
+      }
+    ],
+    "001": [
+      {
+        "offset": 6557,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6561,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6593,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6597,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6909,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6913,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6945,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6949,
+        "bit": 3,
+        "polarity": "normal"
+      }
+    ],
+    "010": [
+      {
+        "offset": 6249,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6253,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6285,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6289,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6601,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6605,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6637,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6641,
+        "bit": 3,
+        "polarity": "normal"
+      }
+    ],
+    "011": [
+      {
+        "offset": 6381,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6385,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6417,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6421,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6733,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6737,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6769,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6773,
+        "bit": 3,
+        "polarity": "normal"
+      }
+    ],
+    "100": [
+      {
+        "offset": 6469,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6473,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6505,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6509,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6821,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6825,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6857,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6861,
+        "bit": 3,
+        "polarity": "normal"
+      }
+    ],
+    "101": [
+      {
+        "offset": 6513,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6517,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6549,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6553,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6865,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6869,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6901,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6905,
+        "bit": 3,
+        "polarity": "normal"
+      }
+    ],
+    "110": [
+      {
+        "offset": 6293,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6297,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6329,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6333,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6645,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6649,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6681,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6685,
+        "bit": 3,
+        "polarity": "normal"
+      }
+    ],
+    "111": [
+      {
+        "offset": 6337,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6341,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6373,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6377,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6689,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6693,
+        "bit": 2,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6725,
+        "bit": 3,
+        "polarity": "normal"
+      },
+      {
+        "offset": 6729,
+        "bit": 3,
+        "polarity": "normal"
+      }
+    ]
+  }
+}
